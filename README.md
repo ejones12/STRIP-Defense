@@ -10,7 +10,7 @@ Description: This Jupyter Notebook contains our modified implementation of the P
 
 1. Navigate to our Jupyter Notebook titled -- FinalCode.ipynb
 2. Go to Runtime -> Change Runtime Type -> Hardware Accelerator and select “GPU”, and click save.
-3. Running w/o GPU will result in a long runtime.
+    - Running w/o GPU will result in a long runtime.
 4. Navigate to Cell 1 and Run Cell. You will be prompted to mount to your Google Drive. Select your vt  email account and click Allow.
 5. Once the drive is mounted, you may run all cells. Each cell contains detailed instructions on its functionality.
     - In order to change the target label for classification, navigate to Cell 7 and change the value of labelnum to one of the corresponding indexes in Cell 6.
